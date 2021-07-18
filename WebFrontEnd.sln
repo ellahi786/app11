@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFrontEnd", "WebFrontEnd\WebFrontEnd.csproj", "{E51C16E9-1E85-41C7-B3BB-6A7767EB2BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebAPI", "MyWebAPI\MyWebAPI.csproj", "{BA7E4559-32B5-4B22-87C6-AF67A9897C3D}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8793ACF8-7C41-4495-9427-B2424E14BADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E51C16E9-1E85-41C7-B3BB-6A7767EB2BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51C16E9-1E85-41C7-B3BB-6A7767EB2BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51C16E9-1E85-41C7-B3BB-6A7767EB2BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51C16E9-1E85-41C7-B3BB-6A7767EB2BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7E4559-32B5-4B22-87C6-AF67A9897C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7E4559-32B5-4B22-87C6-AF67A9897C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7E4559-32B5-4B22-87C6-AF67A9897C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7E4559-32B5-4B22-87C6-AF67A9897C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8793ACF8-7C41-4495-9427-B2424E14BADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8793ACF8-7C41-4495-9427-B2424E14BADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8793ACF8-7C41-4495-9427-B2424E14BADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8793ACF8-7C41-4495-9427-B2424E14BADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ACFEB47-FD10-4238-8DFC-4A42923E4407}
+	EndGlobalSection
+EndGlobal
