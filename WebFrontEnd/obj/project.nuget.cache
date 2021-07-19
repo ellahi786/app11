@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4SWZrGC+NlTMk/rwH6m6Gby8mBe6e949BL0H5DFnpO/rRmvc6GD7F/APMswyUVOawwKjHi3wStAhfx9drRAr8A==",
+  "dgSpecHash": "cZw6pniCOE8bdzxN0+Y/rtod1z30sh8V+ngepq0JtE4u45iBA1AdwXUrFvo++moDRkYYeUb3aIYO5RGjUguLrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ehsan\\Desktop\\new\\WebFrontEnd\\WebFrontEnd\\WebFrontEnd.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ehsan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+    "C:\\Users\\ehsan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
+    "C:\\Users\\ehsan\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512"
   ],
   "logs": []
 }
